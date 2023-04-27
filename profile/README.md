@@ -9,6 +9,8 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] Organizar pastas internas mais apropriadamente
 - [ ] Adicionar ementas para todas as disciplinas
 - [ ] Converter txt e docx para markdown
+- [ ] Remover arquivos duplicados
+- [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
 
 ## Permissões de professores
 
