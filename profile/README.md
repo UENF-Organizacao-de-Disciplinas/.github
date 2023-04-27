@@ -11,6 +11,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] Converter txt e docx para markdown
 - [ ] Remover arquivos duplicados
 - [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
+- [ ] Adicionar README.md
 
 ## Permissões de professores
 
