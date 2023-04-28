@@ -12,6 +12,8 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] Remover arquivos duplicados
 - [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
 - [ ] Adicionar README.md
+- [ ] Criar toggles de matérias por período aqui
+- [ ] Também criar toggles de matérias por professor
 
 ## Permissões de professores
 
