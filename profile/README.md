@@ -24,7 +24,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 
 ### Obrigatórias
 
-#### Ciência da Computação
+#### Ciência da Computação <!-- 4 -->
 
 - [ ] [Luis Antonio Rivera Escriba][LattesRivera] <!-- rivera@uenf.br -->
   - Prefere não compartilhar por enquanto por causa de erros de gramática e querer ter uma apresentação única
@@ -32,40 +32,42 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] [Fermin Alfredo Tang Montané][LattesTang] <!-- tang@uenf.br -->
 - [ ] [Ausberto Silverio Castro Vera][LattesAusberto] <!-- ascv@uenf.br --> <!-- LCMAT -->
 
-##### Bolsistas
+##### Bolsistas <!-- 6 -->
 
 - [ ] [Átila Carvalho Junior][LattesAtila]
 - [ ] [Fábio Machado de Oliveira][LattesFabio]
-- [ ] [Mylane dos Santos Barreto][LattesMylane]
 - [ ] [João Luiz de Almeida Filho][LattesJoaoLuiz]
 - [ ] [Carlos Alberto Manso Lopez][LattesCarlos]
 - [ ] [Luiz Mauricio de Oliveira Monteiro][LattesLM]
 - [ ] [Sânya Carvalho dos Santos Caldeira][LattesSanya]
 
-#### Matemática
+#### Matemática <!-- 5 -->
 
 - [ ] [Elba Orocia Bravo Asenjo][LattesElba] <!-- elba.bravo@gmail.com --> <!-- LCMAT -->
+- [ ] [Mylane dos Santos Barreto][LattesMylane]
 - [ ] [Oscar Alfredo Paz La Torre][LattesOscar] <!-- oscar@uenf.br --> <!-- LCMAT -->
 - [ ] [Luis Humberto Guillermo Felipe][LattesGuillermo] <!-- guillerm@uenf.br -->
 - [ ] [Rigoberto Gregorio Sanabria Castro][LattesRigoberto] <!-- rigobertocastro04@gmail.com --> <!-- LCMAT -->
 
-#### Física
+#### Física <!-- 7 -->
 
 - [ ] [Max Erik Soffner][LattesMax] <!-- mes@uenf.br -->
 - [ ] [Marcelo Gomes da Silva][LatesMarceloGomes] <!-- mgs@uenf.br -->
 - [ ] [Marcenilda Amorim Lima][LattesMarcenilda]
 - [ ] [José Augusto Pedro Lima][LattesZeGuto] <!-- japlima@uenf.br -->
-- [ ] [Marcelo de Oliveira Souza][LattesAstronauta] <!-- mm@uenf.br -->
 - [ ] [Leonardo Mota de Oliveira][LattesLeo] <!-- mota@uenf.br -->
 - [ ] [Roberto Weider de Assis Franco][LattesRobertoFranco] <!-- franco@uenf.br -->
 - [ ] [Marcelo Shoey de Oliveira Massunaga][LattesShoey] <!-- shoey@uenf.br -->
-<!-- Matérias únicas -->
+<!-- - [ ] [Marcelo de Oliveira Souza][LattesAstronauta] mm@uenf.br -->
+
+#### Outras matérias <!-- 4 -->
+
 - [ ] [José Ramón Arica Chavez][LattesArica] <!-- arica@uenf.br, jose.arica.chavez@gmail.com --> <!-- LEPROD -->
 - [ ] [Edson Terra Azevedo Filho][LattesEdson] <!-- etaf@uenf.br  , edsonterrafilho@gmail.com --> <!-- LEPROD, LGPP -->
 - [ ] [Manuel Antonio Molina Palma][LattesMolina] <!-- LEPROD -->
 - [ ] [Pedro Paulo Pinto Maia Filho][LattesPedroPaulo]
 
-### Eletivas
+### Eletivas <!-- 6 -->
 
 - [ ] LGP14012 - Economia - [Guilherme Vasconcelos Pereira][LattesGuilherme]
 - [ ] LGP04022 - Sociologia - [Joao Ricardo Boechat Pires de Almeida Sales][LattesBoechat]
@@ -103,7 +105,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 [LattesRigoberto]:      http://lattes.cnpq.br/3844823051682851
 [LattesMarcenilda]:     http://lattes.cnpq.br/8531997680500054
 [LattesPedroPaulo]:     http://lattes.cnpq.br/4368839025919696
-[LattesAstronauta]:     http://lattes.cnpq.br/1488981360251176
+<!-- [LattesAstronauta]:     http://lattes.cnpq.br/1488981360251176 -->
 [LatesMarceloGomes]:    http://lattes.cnpq.br/0553046070876845
 [LattesCarlosEduardo]:  http://lattes.cnpq.br/4648508077667482
 [LattesRobertoFranco]:  http://lattes.cnpq.br/5208824640229110
