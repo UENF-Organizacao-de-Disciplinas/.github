@@ -8,14 +8,14 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 
 ## To-Do List
 
+- [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
+- [ ] Conferir arquivos de apresentações do google, apagar de lá e ter o formato PDF e PPTX
+- [ ] Pegar anotações feitas no Notion
 - [ ] Organizar pastas internas mais apropriadamente
 - [ ] Adicionar sugestões e dicas de como os professores funcionam e de que forma costumam agir
 - [ ] Adicionar ementas para todas as disciplinas
 - [ ] Converter txt e docx para markdown
-- [ ] Remover arquivos duplicados
-- [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
-- [ ] Conferir arquivos de apresentações do google, apagar de lá e ter o formato PDF e PPTX
-- [ ] Adicionar README.md nos que faltaram
+- [ ] Remover arquivos duplicados- [ ] Adicionar README.md nos que faltaram
 - [ ] Criar toggles de matérias por período aqui
 - [ ] Também criar toggles de matérias por professor
 - [ ] Adicionar emails dos professores
