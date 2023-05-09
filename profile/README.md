@@ -9,6 +9,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 ## To-Do List
 
 - [ ] Organizar pastas internas mais apropriadamente
+- [ ] Adicionar sugestões e dicas de como os professores funcionam e de que forma costumam agir
 - [ ] Adicionar ementas para todas as disciplinas
 - [ ] Converter txt e docx para markdown
 - [ ] Remover arquivos duplicados
