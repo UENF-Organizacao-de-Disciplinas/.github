@@ -14,7 +14,8 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] Converter txt e docx para markdown
 - [ ] Remover arquivos duplicados
 - [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
-- [ ] Adicionar README.md
+- [ ] Conferir arquivos de apresentações do google, apagar de lá e ter o formato PDF e PPTX
+- [ ] Adicionar README.md nos que faltaram
 - [ ] Criar toggles de matérias por período aqui
 - [ ] Também criar toggles de matérias por professor
 - [ ] Adicionar emails dos professores
