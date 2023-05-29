@@ -10,7 +10,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 
 - [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
 - [ ] Conferir arquivos de apresentações do google, apagar de lá e ter o formato PDF e PPTX
-- [ ] Pegar anotações feitas no Notion
+- [ ] Pegar anotações feitas no [Notion](https://jvfd3.notion.site/UENF-ac5aff98cf594da8991dc28f846cf168)
 - [ ] Organizar pastas internas mais apropriadamente
 - [ ] Adicionar sugestões e dicas de como os professores funcionam e de que forma costumam agir
 - [ ] Adicionar ementas para todas as disciplinas
@@ -19,7 +19,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] Criar toggles de matérias por período aqui
 - [ ] Também criar toggles de matérias por professor
 - [ ] Adicionar emails dos professores
-- [ ] Tabelar professores? <!-- https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table -->
+- [ ] Tabelar professores? [Link de Auxílio(?)](https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table)
 - [ ] Transcrever minhas anotações do papel???!
 
 ## Professores
