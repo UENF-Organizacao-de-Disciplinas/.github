@@ -21,7 +21,8 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 - [ ] Adicionar sugestões e dicas de como os professores funcionam e de que forma costumam agir
 - [ ] Adicionar ementas para todas as disciplinas
 - [ ] Converter txt e docx para markdown
-- [ ] Remover arquivos duplicados- [ ] Adicionar README.md nos que faltaram
+- [ ] Remover arquivos duplicados
+- [ ] Adicionar README.md nos que faltaram
 - [ ] Criar toggles de matérias por período aqui
 - [ ] Também criar toggles de matérias por professor
 - [ ] Adicionar emails dos professores
