@@ -15,7 +15,7 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 ## To-Do List
 
 - [ ] Conferir arquivos no classroom, jogar pro github e sair da sala
-- [ ] Conferir arquivos de apresentações do google, apagar de lá e ter o formato PDF e PPTX
+- [ ] Pegar dados do Docs, Sheets e Slides em formatos docx, xlsx, pptx, pdf
 - [ ] Pegar anotações feitas no [Notion](https://jvfd3.notion.site/UENF-ac5aff98cf594da8991dc28f846cf168)
 - [ ] Organizar pastas internas mais apropriadamente
 - [ ] Adicionar sugestões e dicas de como os professores funcionam e de que forma costumam agir
