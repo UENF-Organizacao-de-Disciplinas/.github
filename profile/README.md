@@ -1,4 +1,4 @@
-# UENF - Conteúdo de Disciplinas
+# UENF - Organização de Disciplinas
 
 ## 🚨 Alerta 🚨
 
